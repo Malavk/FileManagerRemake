@@ -1,0 +1,16 @@
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\bin\Debug\net5.0\NewFileManager.exe
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\bin\Debug\net5.0\NewFileManager.deps.json
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\bin\Debug\net5.0\NewFileManager.runtimeconfig.json
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\bin\Debug\net5.0\NewFileManager.runtimeconfig.dev.json
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\bin\Debug\net5.0\NewFileManager.dll
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\bin\Debug\net5.0\ref\NewFileManager.dll
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\bin\Debug\net5.0\NewFileManager.pdb
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\obj\Debug\net5.0\NewFileManager.csproj.AssemblyReference.cache
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\obj\Debug\net5.0\NewFileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\obj\Debug\net5.0\NewFileManager.AssemblyInfoInputs.cache
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\obj\Debug\net5.0\NewFileManager.AssemblyInfo.cs
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\obj\Debug\net5.0\NewFileManager.csproj.CoreCompileInputs.cache
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\obj\Debug\net5.0\NewFileManager.dll
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\obj\Debug\net5.0\ref\NewFileManager.dll
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\obj\Debug\net5.0\NewFileManager.pdb
+C:\Users\ermos\Desktop\NewFileManager\NewFileManager\obj\Debug\net5.0\NewFileManager.genruntimeconfig.cache
